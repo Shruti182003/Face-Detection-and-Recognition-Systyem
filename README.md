@@ -16,4 +16,7 @@ Files
 - `haarcascade_frontalface_default.xml`: Haar cascade model
 - `final_model.h5`: Trained model file
 
-
+How to Run
+1. Install dependencies:
+   ```bash
+   pip install -r Requirements.txt
